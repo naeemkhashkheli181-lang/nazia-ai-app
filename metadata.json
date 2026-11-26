@@ -1,0 +1,6 @@
+{
+  "name": "Nazia AI",
+  "description": "Personal Urdu holographic AI assistant with live voice, smart reminders, screen assist, and device control.",
+  "requestFramePermissions": ["microphone", "camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
